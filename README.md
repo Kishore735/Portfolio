@@ -142,10 +142,6 @@ The portfolio is designed to work perfectly on:
 - Test on multiple screen sizes
 - Keep components modular and reusable
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests!
